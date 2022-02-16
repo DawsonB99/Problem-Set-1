@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GhostBusters
+comment0.text=\r\n\ Enter\ in\ Callee's\ name,\ number\ of\ ghosts\ needing\ busting,\ marshmellow\ men\ needing\ squashing,\r\n\ and\ a\ discount\ code\ for\ your\ reciept\ of\ our\ Service.\r\n\r\n\ @author\ Dawson\ Bridger\r\n\ @version\ Spring\ 2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

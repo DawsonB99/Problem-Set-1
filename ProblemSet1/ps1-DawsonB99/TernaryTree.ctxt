@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TernaryTree
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TernaryTree\ here.\r\n\r\n\ @author\ Dawson\ Bridger\r\n\ @version\ Spring\ 2020\r\n
+comment1.params=
+comment1.target=TernaryTree()
+comment1.text=\r\n\ Constructs\ an\ empty\ binary\ search\ tree\ (BST).\r\n
+comment2.params=value
+comment2.target=void\ addRoot(int)
+comment2.text=\r\n\ Adds\ the\ value\ to\ the\ tree\ maintianing\ the\ BST\r\n\ property\ that\ for\ every\ tree\ node\ n,\ all\ values\ in\ n's\ left\r\n\ subtree\ are\ less\ than\ or\ equal\ to\ n's\ data\ value\ and\ all\ values\r\n\ in\ n's\ right\ subtree\ are\ larger.\r\n\ \r\n\ @param\ value\ The\ value\ to\ be\ added\ to\ the\ BST.\r\n
+comment3.params=
+comment3.target=int\ numLeaves()
+comment3.text=\r\n\ Returns\ the\ number\ of\ leaves\ in\ the\ BST.\r\n\ \r\n\ @return\ The\ number\ of\ leaves\ in\ the\ BST.\r\n
+comment4.params=n
+comment4.target=int\ numLeaves(Node)
+comment4.text=\r\n\ Returns\ the\ number\ of\ leaves\ in\ the\ BST\ whose\r\n\ root\ is\ node\ n.\r\n\ \r\n\ @param\ The\ root\ of\ the\ BST\ (or\ subtree).\r\n\ @return\ The\ number\ of\ leaves\ in\ the\ BST\ whose\r\n\ root\ is\ node\ n.\r\n
+numComments=5
